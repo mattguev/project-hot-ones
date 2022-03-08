@@ -1,6 +1,6 @@
 # project-hot-ones
 
-Who has the most songs on the Hot 100 this week? (hint: it's not Drake)
+Who has the most songs on the Hot 100 this week? (Hint: it's not Drake)
 
 Does Bo Burnham's stereotype of country music as lyrically hollow and mandolin-centric hold true?
 
