@@ -4,6 +4,6 @@
 
 2. Does Bo Burnham's stereotype of country music as "mad libs and mandolins" hold true?
 
-3. What do Mariah Carey and Santa Claus have in common? Curious patterns in the trajectory of Number 1 hits. 
+3. What do Mariah Carey and Santa Claus have in common? And other curious patterns in the trajectory of Number 1 hits. 
 
 This project provides visualizations to help answer those questions using the Spotify and Billboard APIs!
